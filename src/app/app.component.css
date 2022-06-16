@@ -1,0 +1,26 @@
+img {
+  width: 300px;
+  margin: 0 auto;
+  display: flex;
+}
+.offset-md-4 {
+  width: 600px;
+}
+
+.btn {
+  margin: 10px auto;
+  display: flex;
+}
+
+.categories {
+  display: inline-block;
+  width: 100px;
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+.jokes {
+  width: 600px;
+  margin: 20px 33%;
+}
